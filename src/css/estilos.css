@@ -43,7 +43,7 @@ main .personagem .imagem {
     z-index: 1;
 }
 
-.conteudo .nome_personagem {    
+.conteudo .nome-personagem {    
     color: #ffffff;
     font-size: 48px;
     font-family: "Secular One";
